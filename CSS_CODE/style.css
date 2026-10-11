@@ -1,6 +1,16 @@
- body {
+ h7 {
             font-family: Arial, sans-serif;
-            color: #660404;
-            background-color: #f4f6f7;
-            margin: 20px;
-     }
+            color: rgb(0, 80, 230);
+    }
+h6 {
+            font-family: Arial, sans-serif;
+            color: rgb(30, 30, 30);
+    }
+h5 {
+            font-family: Arial, sans-serif;
+            color: rgb(30, 30, 30);
+    }
+h2 {
+            font-family: Arial, sans-serif;
+            color: rgb(30, 30, 30);
+    }
